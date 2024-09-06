@@ -1,15 +1,15 @@
 # Strikers-performance-analysis
-Introduction
+## Introduction
 
 In the world of football, strikers play a pivotal role in deciding the fate of matches and championships. Identifying the best strikers among a pool of talent involves a comprehensive analysis of various factors ranging from performance metrics to personal attributes. In this project, titled "Segmenting and Classifying the Best Strikers," we delve into a dataset containing information on 500 strikers, aiming to uncover patterns, insights, and classifications that distinguish top-performing strikers from the rest.
 
-##Project Description
+## Project Description
 The project involves utilizing data analytics techniques to explore and understand the characteristics and performance metrics of strikers. By employing descriptive statistics, data visualization, feature engineering, and machine learning algorithms, we aim to identify the key attributes that contribute to a striker's success on the field and classify them into different categories based on their performance.
 
-##Purpose
+## Purpose
 The primary purpose of this project is to provide a systematic framework for analyzing and categorizing strikers based on their performance metrics and personal attributes. By doing so, coaches, scouts, and football analysts can gain valuable insights into the characteristics of top-performing strikers and make informed decisions in team selection, recruitment, and strategic planning.
 
-##Dataset Description
+## Dataset Description
 The dataset comprises various variables related to 500 strikers, encompassing both demographic information and performance metrics. Key variables include nationality, footedness, marital status, goals scored, assists, shot accuracy, dribbling success, and many more, providing a comprehensive overview of each striker's profile and on-field performance.
 
 Striker ID: Unique identifiers assigned to each striker.
@@ -54,10 +54,9 @@ Off-field Conduct: Measures the striker's professionalism, leadership, and behav
 
 Required Tools
 Python programming language
-
 Jupyter Notebook
 
-Questions to solve
+## Questions to solve
 Data Cleaning:
 
 Download the attached dataset and load it into Jupyter notebook.
@@ -116,7 +115,7 @@ Assign the tag 'Best strikers' for 0 and 'Regular strikers' for 1 and add a new 
 
 Use feature mapping to map the new feature Strikers types: 'Best strikers' for 1 and 'Regular strikers' for 0.
 
-##Machine Learning Model:
+## Machine Learning Model:
 
 Select the features into x and the target column Strikers types into y. Must delete unnecessary columns (i.e., 'Strikers_ID') while selecting the features.
 
@@ -132,10 +131,10 @@ Finally, answer the question asked in this assignment and you are done!
 
 
 
-##Conclusion
+## Conclusion
 Through a comprehensive analysis of the dataset, we've gained valuable insights into the characteristics and performance metrics of strikers. By segmenting and classifying the strikers based on their attributes and performance, we've provided a framework for identifying top-performing strikers and predicting their performance type. This project serves as a valuable resource for football professionals and enthusiasts alike, aiding in talent identification, team selection, and strategic planning.
 
-##Relevant Questions to solve
+## Relevant Questions to solve
 What is the maximum goal scored by an individual striker?
 
 What is the portion of Right-footed strikers within the dataset?
@@ -154,4 +153,8 @@ What is the p-value for the levene's test of ANOVA analysis? Is the heteroscedas
 
 Is there any significant correlation between strikers' Hold-up play and consistency rate?
 
-Describe t
+Describe the beta value of Hold-up Play you have found in your regression analysis.
+
+What is the average Total contribution score you get for the best strikers?
+
+What is the accuracy score of your LGR model? How many regular strikers your model predicted correctly? How many best strikers your model predicted incorrectly?
