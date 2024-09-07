@@ -1,0 +1,38 @@
+## My findings
+What is the maximum goal scored by an individual striker?
+34
+
+What is the portion of Right-footed strikers within the dataset?
+53.4%
+
+Which nationality strikers have the highest average number of goals scored?
+Brazil & Spain
+
+What is the average conversion rate for left-footed player?
+0.198086
+
+How many left footed players are from France?
+42
+
+What is the correlation co-efficient between hold up play and consistency score?
+0.15
+
+What is the p-value for the shapiro wilk test of consistency score? Is it normally distributed?
+0.451,YES
+
+What is the p-value for the levene's test of ANOVA analysis? Is the heteroscedasticity assumed?
+0.8083990350934653,Yes
+
+Is there any significant correlation between strikers' Hold-up play and consistency rate?
+Yes
+
+Describe the beta value of Hold-up Play you have found in your regression analysis.
+0.0015
+
+What is the average Total contribution score you get for the best strikers?
+123.39
+
+What is the accuracy score of your LGR model? How many regular strikers your model predicted correctly? How many best strikers your model predicted incorrectly?
+97%,42,3
+
+What is the accuracy score of your LGR model? How many regular strikers your model predicted correctly? How many best strikers your model predicted incorrectly?
