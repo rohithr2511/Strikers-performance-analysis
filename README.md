@@ -133,28 +133,3 @@ Finally, answer the question asked in this assignment and you are done!
 
 ## Conclusion
 Through a comprehensive analysis of the dataset, we've gained valuable insights into the characteristics and performance metrics of strikers. By segmenting and classifying the strikers based on their attributes and performance, we've provided a framework for identifying top-performing strikers and predicting their performance type. This project serves as a valuable resource for football professionals and enthusiasts alike, aiding in talent identification, team selection, and strategic planning.
-
-## Relevant Questions to solve
-What is the maximum goal scored by an individual striker?
-
-What is the portion of Right-footed strikers within the dataset?
-
-Which nationality strikers have the highest average number of goals scored?
-
-What is the average conversion rate for left-footed player?
-
-How many left footed players are from France?
-
-What is the correlation co-efficient between hold up play and consistency score?
-
-What is the p-value for the shapiro wilk test of consistency score? Is it normally distributed?
-
-What is the p-value for the levene's test of ANOVA analysis? Is the heteroscedasticity assumed?
-
-Is there any significant correlation between strikers' Hold-up play and consistency rate?
-
-Describe the beta value of Hold-up Play you have found in your regression analysis.
-
-What is the average Total contribution score you get for the best strikers?
-
-What is the accuracy score of your LGR model? How many regular strikers your model predicted correctly? How many best strikers your model predicted incorrectly?
